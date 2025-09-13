@@ -1,0 +1,52 @@
+Student Course Enrollment & Attendance Tracker
+Industry:
+Education (EdTech / Academic Institutions)
+Project Type:
+B2C Salesforce CRM Implementation (Students as primary customers, Teachers/Admins as service
+providers)
+Target Users:
+Students - for enrollment, attendance records, and alerts
+Teachers - for tracking class attendance and student participation
+Academic Administrators - for monitoring overall attendance trends, reporting, and compliance
+
+1. Problem Statement
+In educational institutions, managing student enrollments and tracking attendance manually is
+time-consuming and error-prone. Teachers often struggle to monitor attendance for multiple
+courses, and students may miss classes without proper alerts. Lack of timely information on student
+attendance leads to decreased engagement and poor academic performance. Therefore, there is a
+need for an automated system that efficiently manages course enrollments, tracks attendance, and
+generates insightful reports while notifying students and staff about absenteeism.
+
+2. Project Overview
+The Student Course Enrollment & Attendance Tracker is a web-based application designed to
+streamline student enrollment management and attendance tracking in schools and colleges. This
+system allows administrators and teachers to:
+- Maintain records of students and courses.
+- Enroll students in their respective courses.
+- Mark and monitor attendance for each class session.
+- Generate automated alerts for students with low attendance.
+- Produce detailed reports, including attendance percentage per student and course-wise enrollment
+statistics.
+By digitizing these processes, the system reduces administrative workload, minimizes errors, and
+improves communication between teachers and students regarding attendance.
+
+3. Objectives
+1. Efficient Enrollment Management:
+Maintain accurate student and course records, allowing seamless enrollment and updates.
+2. Automated Attendance Tracking:
+Enable teachers to mark attendance quickly, with records stored in a centralized database for
+easy retrieval.
+
+Student Course Enrollment & Attendance Tracker
+
+3. Alert Notifications:
+Send automatic alerts to students or guardians if attendance falls below a predefined threshold,
+ensuring proactive engagement.
+4. Comprehensive Reporting:
+Generate real-time reports on attendance percentages, course-wise enrollments, and absentee
+trends to support decision-making.
+5. Improved Academic Monitoring:
+Assist teachers and administrators in identifying attendance issues early, helping improve student
+performance and institutional efficiency.
+
+
