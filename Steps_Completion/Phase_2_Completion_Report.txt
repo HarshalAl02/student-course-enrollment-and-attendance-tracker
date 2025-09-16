@@ -1,0 +1,60 @@
+Phase 2: Org Setup & Configuration - Completion Report
+
+Project: Assignment & Exam Management System
+Institute: Prof. Ram Meghe Institute of Technology & Research
+
+---------------------------------------------
+1. Salesforce Edition:
+   - Developer Org used for implementation.
+
+2. Company Profile Setup:
+   - Organization Name: Prof. Ram Meghe Institute of Technology & Research
+   - Default Locale: English (India)
+   - Default Currency: INR
+   - Default Time Zone: (GMT+05:30) India Standard Time
+
+3. Business Hours & Holidays:
+   - Business Hours: "School Hours" (All days, available 7:00 AM to 05:00 PM)
+   - Holidays: Configurable (none added yet).
+
+4. Fiscal Year Settings:
+   - Fiscal Year: Custom, 01-Apr-2025 to 31-Mar-2026
+
+5. User Setup & Licenses:
+   - Teacher User: License = Salesforce, Profile = Teacher_Profile, Role = Teacher
+   - Student User: License = Salesforce, Profile = Student_Profile, Role = Student
+   - Guardian User: License = Salesforce, Profile = Guardian_Profile, Role = Guardian
+
+6. Roles Hierarchy:
+   - Academic_Admin → Teacher → Student
+   - Guardian under Admin
+
+7. Profiles:
+   - Teacher_Profile (cloned and customized from Standard User)
+   - Student_Profile (cloned and customized from Standard User)
+   - Guardian_Profile (cloned and customized from Standard User)
+
+8. Permission Sets:
+   - PS_Grade_Manager → grants extra edit rights on Grade__c, assigned to Teacher user (Anita).
+   - PS_Attendance_Manager → grants rights to manage Attendance__c, assigned to Teacher user (Anita).
+
+9. Organization-Wide Defaults (OWD):
+   - Student__c = Private
+   - Guardian__c = Private
+   - Attendance__c = Private
+   - Grade__c = Private
+   - Course__c = Public Read Only
+
+10. Sharing Rules:
+   - Grades (Grade__c): Shared with Guardian role.
+   - Attendance (Attendance__c): Shared with Guardian role if needed.
+   - Assignments: Shared with Teacher role.
+
+---------------------------------------------
+✅ Outcomes of Phase 2:
+- Developer Org successfully configured.
+- Company academic information standardized.
+- Academic roles, profiles, and permission sets created and assigned.
+- OWD and Sharing Rules enforced for record-level security.
+- Teachers and Guardians now have proper controlled access to Assignments, Attendance, and Grades.
+- Phase 2 deliverables completed. Ready to proceed to Phase 3: Data Modeling & Relationships.

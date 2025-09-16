@@ -1,0 +1,40 @@
+Phase 1 Completion Report – Student Course Enrollment & Attendance Tracker
+
+1. Requirement Gathering
+The project focuses on solving challenges in educational institutions regarding student enrollment and attendance tracking. The key requirements gathered are:
+- Efficient maintenance of student and course records.
+- Seamless enrollment of students into their respective courses.
+- Attendance marking for each class session.
+- Automatic alerts for students with low attendance.
+- Generation of reports including attendance percentages and enrollment statistics.
+The system aims to reduce manual work, minimize errors, and improve communication between students, teachers, and administrators.
+
+2. Stakeholder Analysis
+The primary stakeholders are:
+- Students – use the system for enrollment, attendance tracking, and receiving notifications.
+- Teachers – manage attendance marking and participation tracking.
+- Academic Administrators – monitor attendance trends, compliance, and reporting.
+Each stakeholder benefits from streamlined processes and timely information that supports better academic engagement and performance.
+
+3. Business Process Mapping
+The business processes involved include:
+- Recording and updating student and course information.
+- Enrolling students into courses based on academic schedules.
+- Tracking attendance for each class session.
+- Sending automated alerts when attendance falls below thresholds.
+- Generating attendance reports for teachers and administrators to analyze trends and take corrective actions.
+
+4. Industry-specific Use Case Analysis
+The project serves the education sector (EdTech / Academic Institutions), especially in schools, colleges, and training centers. The following use cases were identified:
+- Automating attendance tracking to reduce manual intervention.
+- Alerting students or guardians to improve attendance and academic performance.
+- Providing administrators with actionable insights for academic planning.
+- Facilitating accurate record-keeping for compliance and reporting.
+
+5. AppExchange Exploration
+Salesforce CRM is leveraged as the underlying platform for the application, enabling:
+- Centralized data management for students and courses.
+- Automated workflows and notifications.
+- Report generation capabilities for academic administrators.
+- Role-based access for teachers and students.
+This ensures scalability, ease of maintenance, and enhanced user experience.
