@@ -26,6 +26,17 @@ Set up the Salesforce environment to support the workflows and requirements defi
 
 ---
 
+## ✅ Phase 3 – Data Modeling & Relationships
+
+**Objective:**  
+Design data models and define relationships to manage student, course, enrollment, attendance, grades, assignments, exams, and submissions efficiently.
+
+**Files Saved:**  
+📂 [Steps_Completion/Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf) – PDF report for Phase 3  
+📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3
+
+---
+
 ## 📂 File Locations
 
 The completed phase reports and documentation are saved in the `Steps_Completion` directory:
@@ -33,17 +44,19 @@ The completed phase reports and documentation are saved in the `Steps_Completion
 - 📂 [Steps_Completion/Phase_1_Completion_Report.pdf](Steps_Completion/Phase_1_Completion_Report.pdf) – PDF report for Phase 1  
 - 📂 [Steps_Completion/Phase_1_Completion_Readme.md](Steps_Completion/Phase_1_Completion_Readme.md) – Markdown documentation for Phase 1  
 - 📂 [Steps_Completion/Phase_2_Completion_Report.pdf](Steps_Completion/Phase_2_Completion_Report.pdf) – PDF report for Phase 2  
-- 📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2
+- 📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2  
+- 📂 [Steps_Completion/Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf) – PDF report for Phase 3  
+- 📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3
 
 ---
 
 ## 📌 Next Steps
 
-With Phase 1 and Phase 2 completed, the project is ready to proceed to further phases, focusing on:
+With Phase 1, Phase 2, and Phase 3 completed, the project is ready to proceed to further phases, focusing on:
 
-- Data modeling and relationship building
-- Workflow automation and notifications
-- Reporting and analytics for administrators and teachers
+- Workflow automation and notifications  
+- Reporting and analytics for administrators, teachers, and students  
+- User interface optimization and testing  
 
 Refer to the documentation saved above as a foundation for the next development steps.
 
