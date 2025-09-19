@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Attendance_Not_Before_EnrollmentStart</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+  NOT(ISBLANK( Date__c )),
+  NOT(ISBLANK( Enrollment__r.Enrollment_Date__c )),
+   Date__c  &lt;  Enrollment__r.Enrollment_Date__c 
+)</errorConditionFormula>
+    <errorDisplayField>Date__c</errorDisplayField>
+    <errorMessage>Attendance cannot be before the student’s enrollment start date</errorMessage>
+</ValidationRule>

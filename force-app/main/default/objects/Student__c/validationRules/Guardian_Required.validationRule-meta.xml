@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Guardian_Required</fullName>
+    <active>true</active>
+    <errorConditionFormula>ISBLANK(Guardian__c)</errorConditionFormula>
+    <errorDisplayField>Guardian__c</errorDisplayField>
+    <errorMessage>Every student must be associated with a Guardian</errorMessage>
+</ValidationRule>

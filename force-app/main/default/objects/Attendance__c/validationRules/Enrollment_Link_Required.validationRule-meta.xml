@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Enrollment_Link_Required</fullName>
+    <active>true</active>
+    <errorConditionFormula>ISBLANK(Enrollment__c)</errorConditionFormula>
+    <errorDisplayField>Enrollment__c</errorDisplayField>
+    <errorMessage>Attendance must be linked to a valid Enrollment record</errorMessage>
+</ValidationRule>

@@ -11,7 +11,7 @@ Understand the challenges faced by educational institutions and analyze industry
 
 **Files Saved:**  
 📂 [Steps_Completion/Phase_1_Completion_Report.pdf](Steps_Completion/Phase_1_Completion_Report.pdf) – PDF report for Phase 1  
-📂 [Steps_Completion/Phase_1_Completion_Readme.md](Steps_Completion/Phase_1_Completion_Readme.md) – Markdown documentation for Phase 1
+📂 [Steps_Completion/Phase_1_Completion_Readme.md](Steps_Completion/Phase_1_Completion_Readme.md) – Markdown documentation for Phase 1  
 
 ---
 
@@ -22,7 +22,7 @@ Set up the Salesforce environment to support the workflows and requirements defi
 
 **Files Saved:**  
 📂 [Steps_Completion/Phase_2_Completion_Report.pdf](Steps_Completion/Phase_2_Completion_Report.pdf) – PDF report for Phase 2  
-📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2
+📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2  
 
 ---
 
@@ -33,7 +33,18 @@ Design data models and define relationships to manage student, course, enrollmen
 
 **Files Saved:**  
 📂 [Steps_Completion/Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf) – PDF report for Phase 3  
-📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3
+📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3  
+
+---
+
+## ✅ Phase 4 – Process Automation (Admin)
+
+**Objective:**  
+Implement automation using Validation Rules, Process Builder, Flow Builder, and Email Alerts to improve data accuracy and streamline communication.
+
+**Files Saved:**  
+📂 [Steps_Completion/Phase_4_Completion_Report.pdf](Steps_Completion/Phase_4_Completion_Report.pdf) – PDF report for Phase 4  
+📂 [Steps_Completion/Phase_4_Completion_Readme.md](Steps_Completion/Phase_4_Completion_Readme.md) – Markdown documentation for Phase 4  
 
 ---
 
@@ -46,17 +57,19 @@ The completed phase reports and documentation are saved in the `Steps_Completion
 - 📂 [Steps_Completion/Phase_2_Completion_Report.pdf](Steps_Completion/Phase_2_Completion_Report.pdf) – PDF report for Phase 2  
 - 📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2  
 - 📂 [Steps_Completion/Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf) – PDF report for Phase 3  
-- 📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3
+- 📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3  
+- 📂 [Steps_Completion/Phase_4_Completion_Report.pdf](Steps_Completion/Phase_4_Completion_Report.pdf) – PDF report for Phase 4  
+- 📂 [Steps_Completion/Phase_4_Completion_Readme.md](Steps_Completion/Phase_4_Completion_Readme.md) – Markdown documentation for Phase 4  
 
 ---
 
 ## 📌 Next Steps
 
-With Phase 1, Phase 2, and Phase 3 completed, the project is ready to proceed to further phases, focusing on:
+With Phase 1, Phase 2, Phase 3, and Phase 4 completed, the project is ready to proceed to further phases, focusing on:
 
-- Workflow automation and notifications  
 - Reporting and analytics for administrators, teachers, and students  
 - User interface optimization and testing  
+- Deployment and user training  
 
 Refer to the documentation saved above as a foundation for the next development steps.
 
@@ -69,7 +82,7 @@ Refer to the documentation saved above as a foundation for the next development 
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)  
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)  
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)  
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)  
 
 ---
 
