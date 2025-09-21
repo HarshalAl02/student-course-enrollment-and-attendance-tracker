@@ -48,30 +48,52 @@ Implement automation using Validation Rules, Process Builder, Flow Builder, and 
 
 ---
 
+## ✅ Phase 5 – Apex Programming (Developer)
+
+**Objective:**  
+Automate business logic, grade calculations, and guardian notifications using Apex classes, triggers, Batch, Queueable, and Scheduled Apex.
+
+**Files Saved:**  
+📂 [Steps_Completion/Phase_5_Completion_Report.pdf](Steps_Completion/Phase_5_Completion_Report.pdf) – PDF report for Phase 5  
+📂 [Steps_Completion/Phase_5_Completion_Readme.md](Steps_Completion/Phase_5_Completion_Readme.md) – Markdown documentation for Phase 5  
+
+**Key Implementations:**  
+- **Apex Classes:** ErrorLogger, GradeTriggerHandler, BatchRecalculateStudentPerformance, GuardianNotificationQueueable, WeeklyPerformanceScheduler  
+- **Triggers:** GradeTrigger on Grade__c (after insert/update/delete)  
+- **Batch Apex:** Recalculates all students’ average marks asynchronously  
+- **Queueable Apex:** Sends automated guardian notifications  
+- **Scheduled Apex:** Executes weekly performance recalculations  
+- **Exception Handling:** All risky operations logged via ErrorLogger  
+- **Test Classes:** Ensure >75% code coverage and validate functionality  
+
+---
+
 ## 📂 File Locations
 
 The completed phase reports and documentation are saved in the `Steps_Completion` directory:
 
-- 📂 [Steps_Completion/Phase_1_Completion_Report.pdf](Steps_Completion/Phase_1_Completion_Report.pdf) – PDF report for Phase 1  
-- 📂 [Steps_Completion/Phase_1_Completion_Readme.md](Steps_Completion/Phase_1_Completion_Readme.md) – Markdown documentation for Phase 1  
-- 📂 [Steps_Completion/Phase_2_Completion_Report.pdf](Steps_Completion/Phase_2_Completion_Report.pdf) – PDF report for Phase 2  
-- 📂 [Steps_Completion/Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md) – Markdown documentation for Phase 2  
-- 📂 [Steps_Completion/Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf) – PDF report for Phase 3  
-- 📂 [Steps_Completion/Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md) – Markdown documentation for Phase 3  
-- 📂 [Steps_Completion/Phase_4_Completion_Report.pdf](Steps_Completion/Phase_4_Completion_Report.pdf) – PDF report for Phase 4  
-- 📂 [Steps_Completion/Phase_4_Completion_Readme.md](Steps_Completion/Phase_4_Completion_Readme.md) – Markdown documentation for Phase 4  
+- 📂 [Phase_1_Completion_Report.pdf](Steps_Completion/Phase_1_Completion_Report.pdf)  
+- 📂 [Phase_1_Completion_Readme.md](Steps_Completion/Phase_1_Completion_Readme.md)  
+- 📂 [Phase_2_Completion_Report.pdf](Steps_Completion/Phase_2_Completion_Report.pdf)  
+- 📂 [Phase_2_Completion_Readme.md](Steps_Completion/Phase_2_Completion_Readme.md)  
+- 📂 [Phase_3_Completion_Report.pdf](Steps_Completion/Phase_3_Completion_Report.pdf)  
+- 📂 [Phase_3_Completion_Readme.md](Steps_Completion/Phase_3_Completion_Readme.md)  
+- 📂 [Phase_4_Completion_Report.pdf](Steps_Completion/Phase_4_Completion_Report.pdf)  
+- 📂 [Phase_4_Completion_Readme.md](Steps_Completion/Phase_4_Completion_Readme.md)  
+- 📂 [Phase_5_Completion_Report.pdf](Steps_Completion/Phase_5_Completion_Report.pdf)  
+- 📂 [Phase_5_Completion_Readme.md](Steps_Completion/Phase_5_Completion_Readme.md)  
 
 ---
 
 ## 📌 Next Steps
 
-With Phase 1, Phase 2, Phase 3, and Phase 4 completed, the project is ready to proceed to further phases, focusing on:
+With Phases 1–5 completed, the project is ready to proceed with:
 
-- Reporting and analytics for administrators, teachers, and students  
+- Advanced reporting and analytics for administrators, teachers, and students  
 - User interface optimization and testing  
-- Deployment and user training  
+- Deployment, training, and ongoing maintenance  
 
-Refer to the documentation saved above as a foundation for the next development steps.
+Refer to the saved documentation as a foundation for further development and enhancements.
 
 ---
 
