@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="Attendance Summary" icon-name="standard:contact">
+        <div class="slds-m-around_medium">
+            <template if:true={percent}>
+                <p>Attendance: {percent}%</p>
+            </template>
+            <template if:false={percent}>
+                <p>No attendance records found.</p>
+            </template>
+
+            <!-- Optional: Mark Present Button -->
+            <lightning-button label="Mark Present" onclick={handleMarkPresent} variant="brand"></lightning-button>
+        </div>
+    </lightning-card>
+</template>
