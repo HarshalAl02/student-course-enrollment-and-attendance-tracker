@@ -12,4 +12,5 @@
     <tabs>Grade__c</tabs>
     <tabs>Guardian__c</tabs>
     <tabs>Student__c</tabs>
+    <tabs>Integration_Log__c</tabs>
 </CustomApplication>

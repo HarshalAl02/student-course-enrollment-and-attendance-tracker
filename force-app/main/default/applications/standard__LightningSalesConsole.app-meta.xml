@@ -26,6 +26,7 @@
     <tabs>Grade__c</tabs>
     <tabs>Guardian__c</tabs>
     <tabs>Student__c</tabs>
+    <tabs>Integration_Log__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
@@ -43,6 +44,9 @@
         </mappings>
         <mappings>
             <tab>Guardian__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Integration_Log__c</tab>
         </mappings>
         <mappings>
             <tab>Student__c</tab>

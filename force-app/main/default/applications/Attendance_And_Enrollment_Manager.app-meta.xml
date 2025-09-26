@@ -118,6 +118,7 @@
     <tabs>Grade__c</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Integration_Log__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Attendance_And_Enrollment_Manager_UtilityBar</utilityBar>
 </CustomApplication>
