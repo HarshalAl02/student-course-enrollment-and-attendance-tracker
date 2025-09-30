@@ -1,5 +1,10 @@
 # 📘 STUDENT COURSE ENROLLMENT & ATTENDANCE TRACKER
 
+Final documentation is in the Steps_Completion folder residing in the last. Scroll there to check it. 
+Thank you!
+
+---
+
 This project is designed to simplify student enrollment and attendance tracking for educational institutions using Salesforce. The implementation is structured in phases, and each phase’s documentation has been saved for reference and further development.
 
 ---
